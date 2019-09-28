@@ -1,4 +1,4 @@
-# Film-List-Application (Academic Assignment)
+# Film-List-Application (Academic Project)
 This program is an implementation of a film database application using MVC architecture. The FruitList GUI 
 was provided as a starting point. The application allows the user to perform the below functionalities via 
 a GUI:
