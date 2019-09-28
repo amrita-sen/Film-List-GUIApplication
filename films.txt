@@ -1,0 +1,31 @@
+10
+The Green Mile
+1999
+R
+The Pianist
+2002
+R
+Gladiator
+2000
+R
+Saving Private Ryan
+1998
+R
+Life Is Beautiful
+1997
+PG-13
+Avenger's: Endgame
+2019
+PG-13
+Green Book
+2018
+PG-13
+Argo
+2012
+R
+The King's Speech
+2010
+R
+Chicago
+2002
+PG-13
